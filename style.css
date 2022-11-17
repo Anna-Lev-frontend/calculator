@@ -1,0 +1,53 @@
+body {
+  font-size: 21px;
+  text-align: center;
+}
+
+input {
+  min-width: 220px;
+  padding: 8px 12px;
+  border: 1px gray solid;
+  border-radius: 3px;
+  margin: 0 5px;
+  font-size: 16px;
+}
+
+input:hover {
+  background-color: #e6e8fc;
+}
+
+
+input:focus {
+  outline: 2px solid #4c00ff;
+}
+
+button {
+  font-size: 18px;
+  line-height: 21px;
+  padding: 10px;
+  border: 1px gray solid;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #e6e8fc;
+}
+
+button:focus {
+  outline: 2px solid #4c00ff;
+}
+
+.operation {
+  padding: 8px 12px;
+  border: 1px gray solid;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.operation:hover {
+  background-color: #e6e8fc;
+}
+
+.operation:focus {
+  outline: 2px solid #4c00ff;
+}
